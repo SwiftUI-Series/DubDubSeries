@@ -10,6 +10,7 @@ After a week of discovering all the new things that are announced, build somethi
 
 - Open a new Xcode project and make a new iOS or iPadOS app
 - Using less than 200 lines of code and a single SwiftUI file, show off a newly annouced API / framework / feature
+- Write a little note in the README of your repo where you explain what you like about the new feature and a bit about how it works
 - Create a new public repo for your code
 - Add a reference to your project to the README of this repo and make a PR
 
