@@ -18,4 +18,4 @@ On friday June 10th we will go through the entries from a special location near 
 
 | Link to Code  | Attendee Name | Twitter                                   |
 |-------------|----------------|------------------------------------------------|
-| [Link to Code]()  | Enter your Name | [@twitter](https://www.twitter.com/) | <br/>
+| [Link to Code](https://github.com/ryanlintott/LayoutThatFits)  | Ryan Lintott | [@ryanlintott](https://www.twitter.com/ryanlintott) | <br/>
