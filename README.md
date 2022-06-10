@@ -19,3 +19,5 @@ On friday June 10th we will go through the entries from a special location near 
 | Link to Code  | Attendee Name | Twitter                                   |
 |-------------|----------------|------------------------------------------------|
 | [Link to Code]()  | Enter your Name | [@twitter](https://www.twitter.com/) | <br/>
+| [https://github.com/teeeeeegz/ResizableSwiftUISheets]()  | Michael Tigas | [@twitter](https://www.twitter.com/michael_tigas) | <br/>
+
